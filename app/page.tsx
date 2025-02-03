@@ -1,6 +1,6 @@
 'use client'
 
-import { Github, ExternalLink, Mail, Linkedin, ChevronRight, Circle, FileCode, Briefcase, GraduationCap, Trophy, User, Braces, Cpu, Code, Boxes, Award } from 'lucide-react'
+import { Github, ExternalLink, Mail, Linkedin, ChevronRight,  FileCode, Briefcase,  User, Braces, Cpu, Code, Boxes, Award } from 'lucide-react'
 
 export default function Component() {
   const scrollToSection = (sectionId: string) => {
